@@ -41,7 +41,7 @@ function HeroSection({ dark }) {
   }, [displayedMemes, dark]);
 
   return (
-    <div className="relative flex flex-col items-center justify-center h-screen w-screen">
+    <div className="relative flex flex-col items-center justify-center h-screen w-screen overflow-y-hidden">
       <img
         src={dark ? thomasFaceDark : thomasFaceLight}
         alt="Center Image"

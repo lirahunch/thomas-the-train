@@ -116,7 +116,8 @@ function App() {
           Tokenomics
         </h1>
         <p className="text-lg md:text-xl text-center font-HelpMe animate-colorToggle z-[100] md:px-10 px-64">
-         gefk;jafek;jca;ksfjfw;ke ihriofj wriog iwejoijr oifjrpcj orioirdvoijerg oiehroci eroijn ei vne gl mv;kmv;m p m s ;lm;sbm ;jeasd 
+         Total supply: 1,000,000,000 <br/>
+          Fees: 0 / 0 <br/>
         </p>
       </div>
     </div>

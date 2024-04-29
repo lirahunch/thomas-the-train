@@ -15,9 +15,6 @@ const ThomasNavBar = ({ dark, setDark, setIsMuted, isMuted }) => {
         <FaVolumeMute />
       </button>
 
-      <div className="flex-1 text-center py-1 px-2 rounded bg-gray-600 max-w-sm">
-        0x1234...abcd
-      </div>
 
       <button
         className="p-2 bg-gray-700 rounded hover:bg-gray-600 transition"

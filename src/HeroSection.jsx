@@ -56,7 +56,9 @@ function HeroSection({ dark }) {
         $THOMAS
       </h1>
 
-      <div className={`text-xl ${dark ? "text-white" : "text-black"} mt-2 font-HelpMe z-[20]`}>
+      <div className={`text-5xl mt-4 ${
+          dark ? "font-HelpMe animate-colorToggle" : ""
+        }  duration-2000 z-[20] text-white`}>
         Tokenomics:<br />
         10,000,000 Supply<br />
         100% Burnt Liquidity<br />

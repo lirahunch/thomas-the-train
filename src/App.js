@@ -116,8 +116,10 @@ function App() {
           Tokenomics
         </h1>
         <p className="text-lg md:text-xl text-center font-HelpMe animate-colorToggle z-[100] md:px-10 px-64">
-         Total supply: 1,000,000,000 <br/>
-          Fees: 0 / 0 <br/>
+         Tokenomics:<br />
+        10,000,000 Supply<br />
+        100% Burnt Liquidity<br />
+        No team tokens
         </p>
       </div>
     </div>

@@ -55,6 +55,11 @@ function HeroSection({ dark }) {
       >
         $THOMAS
       </h1>
+      <p className={`text-l mt-4 ${
+          dark ? "font-HelpMe animate-colorToggle" : ""
+        }  duration-2000 z-[20] text-white`}>
+        0xjfkhaeo;fhaouehropcahsonoahchoacfphuodksjhfouelwjh
+      </p>
 
       <div className="absolute w-full h-full">
         {displayedMemes.map((meme) => (

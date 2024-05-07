@@ -56,15 +56,6 @@ function HeroSection({ dark }) {
         $THOMAS
       </h1>
 
-      <div className={`text-5xl mt-4 ${
-          dark ? "font-HelpMe animate-colorToggle" : ""
-        }  duration-2000 z-[20] text-white`}>
-        Tokenomics:<br />
-        10,000,000 Supply<br />
-        100% Burnt Liquidity<br />
-        No team tokens
-      </div>
-
       <div className="absolute w-full h-full">
         {displayedMemes.map((meme) => (
           <img

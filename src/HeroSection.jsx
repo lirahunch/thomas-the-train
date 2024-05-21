@@ -58,7 +58,7 @@ function HeroSection({ dark }) {
       <p className={`text-l mt-4 ${
           dark ? "font-HelpMe animate-colorToggle" : ""
         }  duration-2000 z-[20] text-white`}>
-        0xjfkhaeo;fhaouehropcahsonoahchoacfphuodksjhfouelwjh
+        9jiMhmVYeQ5GzTtTd2AUuw19PhrVtkRmDY5AKrnxcGaZ
       </p>
 
       <div className="absolute w-full h-full">
